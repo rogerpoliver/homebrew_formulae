@@ -1,0 +1,9 @@
+devdocs
+fig
+iterm2
+ngrok
+obsidian
+podman-desktop
+qbittorrent
+raycast
+visual-studio-code
