@@ -1,12 +1,11 @@
 asdf
-helix
 httpie
 lazygit
 neofetch
 neovim
-vim
 podman
-powerlevel10k
 kind
 kubernetes-cli
 htop
+bat
+tmux
