@@ -1,6 +1,7 @@
 asdf
 httpie
 lazygit
+lazydocker
 neofetch
 neovim
 podman
@@ -10,3 +11,7 @@ htop
 bat
 tmux
 homebrew/cask-fonts
+nchat
+spotifyd
+spotify-tui
+
